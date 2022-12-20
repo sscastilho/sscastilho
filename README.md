@@ -17,8 +17,8 @@ I reinforce my knowledge acquired in bootcamps [DIO] (https://www.dio.me/) and [
 * 🤝 I am open to collaborating on high impact projects on people's lives
 * ⚡ I love martial arts
 
-<a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+<a href="https://www.github.com/sscastilho" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/sscastilho?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 # Welcome!
 
