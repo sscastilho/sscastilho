@@ -46,7 +46,7 @@ src="https://img.shields.io/github/followers/sscastilho?logo=github&style=for-th
     - [💻 Virtualization](#-virtualization-)
     - [🥅 Work/Jobs](#-workjobs-)
 
-# Skills
+# My Skills
 
 <h2 align='center'>🧑🏼‍🏭 Static</h2>
 
