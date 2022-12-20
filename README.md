@@ -53,6 +53,7 @@ src="https://img.shields.io/github/followers/sscastilho?logo=github&style=for-th
 ## 📊 Analytics [🔝](#welcome)
 
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />   
+<img src="https://img.shields.io/badge/Alteryx-0080FF?style=for-the-badge&logo=Alteryx&logoColor=white" /> 
 
 ## 🤖 Artificial Intelligence [🔝](#welcome)
 
