@@ -1,12 +1,12 @@
 Hi 👋 My name is Sullivan
 ==========================
 
-Systems Analyst Developer
+Systems Analyst Developer and Software Engineer
 -----------------------------
 
 I'm a systems developer. I love coding and figuring out how to solve deep problems using cutting-edge technology. My main focus is the development of AI, IIoT, SQL, DataScience and Game Languages, making applications that impact the lives of thousands of users.
 
-I am also a Systems Analysis and Development student at [IFSP] (http://gru.ifsp.edu.br/), course [Software Engineering at Universidade Cruzeiro do Sul] (https://www.cruzeirodosulvirtual.com.br).
+I am also a Systems Analysis and Development student at [IFSP] (http://gru.ifsp.edu.br/), course Software Engineering at [Cruzeiro do Sul University] (https://www.cruzeirodosulvirtual.com.br).
 
 I reinforce my knowledge acquired in bootcamps [DIO] (https://www.dio.me/) and [ALURA] (https://www.alura.com.br/).
 
