@@ -86,7 +86,8 @@ src="https://img.shields.io/github/followers/sscastilho?logo=github&style=for-th
 <img src="https://img.shields.io/badge/Udemy-A100FF?style=for-the-badge&logo=Udemy&logoColor=white" />       
 
 ## 🎮 Games [🔝](#welcome)
-                     
+<img src="https://img.shields.io/badge/Roblox-FFD43B?style=for-the-badge&logo=roblox&logoColor=blue" />     
+<img src="https://img.shields.io/badge/Unity-2C2255?style=for-the-badge&logo=unity&logoColor=white" />                           
 <img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" />                                            
 <img src="https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white" />                                                        
 <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />                                     
