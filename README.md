@@ -22,9 +22,9 @@ src="https://img.shields.io/github/followers/sscastilho?logo=github&style=for-th
 
 ## Welcome
 ### My Skills
-### Menu
 
-- [Welcome](#welcome)
+
+- [Menu](#menu)
 
   - [🧑🏼‍🏭 Static](#-static)
     - [📊 Analytics](#-analytics-)
