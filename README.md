@@ -25,7 +25,8 @@ I reinforce my knowledge acquired in bootcamps [DIO] (https://www.dio.me/) and [
 
 [![sscastilho github stats](https://github-readme-stats.vercel.app/api?username=sscastilho&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/sscastilho)
 
-### Support Me
+### Need support?
+Send an email to: ssc@outlook.com.br
 
 <a href="https://www.github.com/sscastilho" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sscastilho?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
