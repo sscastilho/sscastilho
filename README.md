@@ -30,8 +30,6 @@ I reinforce my knowledge acquired in bootcamps [DIO] (https://www.dio.me/) and [
 <a href="https://www.github.com/sscastilho" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sscastilho?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
-<a href="https://www.buymeacoffee.com/sscastilho"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a> 
-
 ## Welcome
 ### My Skills
 
