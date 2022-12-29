@@ -1,129 +1,38 @@
-Hi 👋 My name is Sullivan
-==========================
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/sscastilho)](https://github.com/sscastilho)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sullivan-castilho/)](https://www.linkedin.com/in/sullivan-castilho/)
+<h1 align="center">Hi 👋, I'm A Student of Systems Analysis and Development and Software Engineering</h1>
+<h3 align="center">My focus is the development of AI, IIoT, DataScience and Game Languages, making applications that impact the lives of thousands of users.</h3>
 
-Systems Analyst Developer and Software Engineer
------------------------------
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sscastilho&label=Profile%20views&color=0e75b6&style=flat" alt="sscastilho" /> </p>
 
-I'm a systems developer. I love coding and figuring out how to solve deep problems using cutting-edge technology. My main focus is the development of AI, IIoT, SQL, DataScience and Game Languages, making applications that impact the lives of thousands of users.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sscastilho" alt="sscastilho" /></a> </p>
 
-I am also a Systems Analysis and Development student at [IFSP] (http://gru.ifsp.edu.br/), course Software Engineering at [Cruzeiro do Sul University] (https://www.cruzeirodosulvirtual.com.br).
+- 🔭 I’m currently working at [Siemens Energy](https://www.siemens-energy.com/global/en.html)
 
-I reinforce my knowledge acquired in bootcamps [DIO] (https://www.dio.me/) and [ALURA] (https://www.alura.com.br/).
+- 🌱 I’m currently learning **Alteryx, Tableau, Mendix, UiPath, AWS, MYSQL, SQL Server, HTML, Lua/Luau, PHP, Java and C programming language**
 
-* 🌍 I live in São Paulo, Brazil
-* ✉️ You can contact me at [ssc@outlook.com.br]
-* 🚀 I am currently working at [Siemens Energy](https://www.siemens-energy.com/)
-* 🧠 I'm learning MYSQL, SQL Server, HTML, Lua/Luau, PHP, Java and C programming language
-* 🤝 I am open to collaborating on high impact projects on people's lives
-* ⚡ I love martial arts
+- 👯 I’m looking to collaborate as a **Project Manager**
 
-<b>My GitHub Stats</b>
+- 🤝 I’m looking for help with **IT projects**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sscastilho&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/sscastilho)
+- 👨‍💻 All of my projects are available at [https://github.com/sscastilho](https://github.com/sscastilho)
 
-[![sscastilho github stats](https://github-readme-stats.vercel.app/api?username=sscastilho&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/sscastilho)
+- 💬 Ask me about **Industrial Automation, Mechatronic Engineering, Occupational Safety Engineering, Fire Engineering, Project Management and IT systems**
 
-### Need support?
-Send an email to: ssc@outlook.com.br
+- 📫 How to reach me **ssc@outlook.com.br**
 
-<a href="https://www.github.com/sscastilho" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/sscastilho?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+- 📄 Know about my experiences [https://www.linkedin.com/in/sullivan-castilho/](https://www.linkedin.com/in/sullivan-castilho/)
 
-## Welcome
-### My Skills
+- ⚡ Fun fact **I am a ninja (Ninjutsu Martial Art Practitioner)**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sullivan-castilho/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sullivan-castilho/" height="30" width="40" /></a>
+</p>
 
-- [Menu](#menu)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-  - [🧑🏼‍🏭 Static](#-static)
-    - [📊 Analytics](#-analytics-)
-    - [🤖 Artificial Intelligence](#-artificial-intelligence-)
-    - [☁ Cloud](#-cloud-)
-    - [⚡ Database](#-database-)
-    - [🖍 Design](#-design-)
-    - [📚 Education](#-education-)
-    - [🎮 Games](#-games-)
-    - [🤜 Group](#-group-)
-    - [👩‍💻 IDE](#-ide-)
-    - [👩‍💻 Languages](#-languages-)
-    - [👨‍💻 Office](#-office-)
-    - [💡 Prototyping Platforms](#-prototyping-platforms-)
-    - [👨 Social](#-social-)
-    - [🎶 Sound](#-sound-)
-    - [🎞 Streaming](#-streaming-)
-    - [💻 Terminal](#-terminal-)
-    - [💻 Virtualization](#-virtualization-)
-    - [🥅 Work/Jobs](#-workjobs-)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sscastilho&show_icons=true&locale=en&layout=compact" alt="sscastilho" /></p>
 
-## 📊 Analytics [🔝](#welcome)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sscastilho&show_icons=true&locale=en" alt="sscastilho" /></p>
 
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />   <img src="https://img.shields.io/badge/Alteryx-0080FF?style=for-the-badge&logo=Alteryx&logoColor=white" /> 
-
-
-## 🤖 Artificial Intelligence [🔝](#welcome)
-
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> 
-
-## ☁ Cloud [🔝](#welcome)
-
-<img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />  <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" />   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />  
-
-## ⚡ Database [🔝](#welcome)
-
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />  <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />         
-                                          
-## 🖍 Design [🔝](#welcome)
-
-<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />  
-
-## 📚 Education [🔝](#welcome)
-             
-<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />  <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" />  <img src="https://img.shields.io/badge/gitignore%20io-204ECF?style=for-the-badge&logo=gitignoredotio&logoColor=white" />   <img src="https://img.shields.io/badge/Udemy-A100FF?style=for-the-badge&logo=Udemy&logoColor=white" />                                              
-## 🎮 Games [🔝](#welcome)
-<img src="https://img.shields.io/badge/Roblox-FFD43B?style=for-the-badge&logo=roblox&logoColor=blue" />  <img src="https://img.shields.io/badge/Unity-2C2255?style=for-the-badge&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" />  <img src="https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white" />   <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />                                                                               
-
-## 🤜 Group [🔝](#welcome)
-
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />  
-    
-## 👩‍💻 IDE [🔝](#welcome)
-
-<img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />  <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />  <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" />  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />                
-              
-## 👩‍💻 Languages [🔝](#welcome)
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  <img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />                                     
-                                 
-## 👨‍💻 Office [🔝](#welcome)
-
-<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />  <img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white" />  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />                  
-                  
-## 💡 Prototyping Platforms [🔝](#welcome)
-
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" /> 
-
-## 👨 Social [🔝](#welcome)
-
-<img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" />   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />                        
-                     
-## 🎶 Sound [🔝](#welcome)
-
-<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
-
-## 🎞 Streaming [🔝](#welcome)
-
-<img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" />  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />   <img src="https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white" />                     
-                  
-## 💻 Terminal [🔝](#welcome)
-
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />  <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />   <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">             
-                            
-## 💻 Virtualization [🔝](#welcome)
-
-<img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"> 
-
-## 🥅 Work/Jobs [🔝](#welcome)
-
-<img src="https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white" />   <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />  <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" />   <img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=Indeed&logoColor=white" />  <img src="https://img.shields.io/badge/Toptal-3863A0?style=for-the-badge&logo=Toptal&logoColor=white" />  <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />             
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sscastilho&" alt="sscastilho" /></p>
