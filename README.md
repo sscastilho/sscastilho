@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Industrial Automation, Mechatronic Engineering, Occupational Safety Engineering, Fire Engineering, Project Management and IT systems**
 
-- 📫 How to reach me **ssc@outlook.com.br**
+- 📫 How to reach me **email**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sullivan-castilho/](https://www.linkedin.com/in/sullivan-castilho/)
 
