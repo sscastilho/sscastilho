@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sullivan-castilho/](https://www.linkedin.com/in/sullivan-castilho/)
 
-- ⚡ Fun fact **I am a ninja (Ninjutsu Martial Art Practitioner)**
+- ⚡ Fun fact **I am a ninja (Martial Art Practitioner)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
