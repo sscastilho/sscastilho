@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sullivan-castilho/](https://www.linkedin.com/in/sullivan-castilho/)
 
-- :grin: Fun fact **I am a real ninja :ninja: (Martial Art Practitioner "BUJINKAN and GENBUKAN Federation")**
+- :grin: Fun fact **I am a real ninja 🥷 (Martial Art Practitioner "BUJINKAN and GENBUKAN Federation")**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
